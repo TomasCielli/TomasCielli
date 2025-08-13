@@ -32,6 +32,6 @@
 <div align="center">
     <h3>Segundo Año</h3>
     <a href="https://github.com/TomasCielli/Rust">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=TomasCielli&repo=Rust&theme=dark" />  
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=TomasCiell&repo=Rust&theme=dark" />  
     </a>
 </div>

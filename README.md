@@ -29,10 +29,3 @@
  </div>
 
 <h2 align="center">Facultad</h2>
-
-<div align="center">
-    <h3>Segundo Año</h3>
-    <a href="https://github.com/TomasCielli/Rust">
-      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=TomasCielli&repo=Rust&theme=dark" />  
-    </a>
-</div>
